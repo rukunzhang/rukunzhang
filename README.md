@@ -1,0 +1,4 @@
+- 👋 Hi, I’m rukunzhang.
+- 👀 I’m interested in combine the python with some good idea to deal with the challenge i face in the reality.
+- 🌱 I’m currently learning picture processing and machine-learning.
+- 📫 I'll continue to study the foundantion of python ,c/c++,and most of what should be the architecture.
